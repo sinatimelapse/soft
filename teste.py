@@ -8,7 +8,7 @@ from sklearn.model_selection import train_test_split
 import time
 import pickle as cPickle
 
-SHAPE = (200, 200)
+SHAPE = (500, 500)
 
 def read_files(directory):
    print "Reading files..."
